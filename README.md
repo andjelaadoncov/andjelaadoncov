@@ -1,4 +1,4 @@
-👨‍💻 Third-year student at the Faculty of Electronic Engineering in Niš, Serbia 🎓
+👨‍💻 Forth-year student at the Faculty of Electronic Engineering in Niš, Serbia 🎓
 
 Passionate about exploring the intersections of technology and creativity. 💡
 
