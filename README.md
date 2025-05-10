@@ -7,6 +7,7 @@ Passionate about exploring the intersections of technology and creativity. 💡
     --> Web Development
     --> Software Development
     --> Artificial Intelligence
+    --> Cybersecurity
       
 🚀 Always striving to learn, grow, and contribute to innovative projects.
 
