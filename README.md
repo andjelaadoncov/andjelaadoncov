@@ -3,11 +3,11 @@
 Passionate about exploring the intersections of technology and creativity. 💡
 
 🌐 Interested in:
-
+    --> Cybersecurity
+    --> Artificial Intelligence
     --> Web Development
     --> Software Development
-    --> Artificial Intelligence
-    --> Cybersecurity
+    
       
 🚀 Always striving to learn, grow, and contribute to innovative projects.
 
